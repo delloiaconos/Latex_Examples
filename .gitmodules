@@ -1,0 +1,6 @@
+[submodule "TemplateTesi"]
+	path = TemplateTesi
+	url = https://github.com/delloiaconos/Latex_TemplateTesi.git
+[submodule "TemplateAbstract"]
+	path = TemplateAbstract
+	url = https://github.com/delloiaconos/Latex_TemplateAbstract.git
